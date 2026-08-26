@@ -1,0 +1,9 @@
+{
+  "litematica-stripper.info": "投影剥离工具已加载",
+  "litematica-stripper.usage": "用法: /stripper keep|remove <文件> <方块模式>",
+  "litematica-stripper.success": "投影剥离完成!",
+  "litematica-stripper.file_not_found": "文件不存在",
+  "litematica-stripper.filter_complete": "筛选完成，输出: %s",
+  "key.litematica-stripper.open": "打开投影剥离界面",
+  "category.litematica-stripper": "投影剥离"
+}

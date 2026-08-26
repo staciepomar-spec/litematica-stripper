@@ -1,0 +1,9 @@
+{
+  "litematica-stripper.info": "Litematica Stripper loaded",
+  "litematica-stripper.usage": "Usage: /stripper keep|remove <file> <block_pattern>",
+  "litematica-stripper.success": "Strip complete!",
+  "litematica-stripper.file_not_found": "File not found",
+  "litematica-stripper.filter_complete": "Filter complete, output: %s",
+  "key.litematica-stripper.open": "Open Stripper Screen",
+  "category.litematica-stripper": "Litematica Stripper"
+}

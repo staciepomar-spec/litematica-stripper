@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.isswr.blockfilter.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "litematica-block-filter.refmap.json",
+  "client": [
+    "ChunkRendererSchematicVboMixin",
+    "GuiConfigsMixin",
+    "PrinterPlacementGuideMixin",
+    "PrinterStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

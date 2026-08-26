@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "litematica-stripper",
+  "version": "${version}",
+  "name": "Litematica Stripper",
+  "description": "投影剥离工具 - 筛选投影中的指定建筑结构方块",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/stripper/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.litematicastripper.LitematicaStripperMod"
+    ],
+    "client": [
+      "com.litematicastripper.gui.StripperKeybind"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "litematica": "*"
+  }
+}

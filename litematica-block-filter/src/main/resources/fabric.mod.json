@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "litematica-block-filter",
+  "name": "Litematica Block Filter",
+  "version": "${version}",
+  "description": "为 Litematica 添加实时方块过滤和方块选择列表。",
+  "authors": ["Iss.WR"],
+  "license": "LGPL-3.0",
+  "environment": "client",
+  "mixins": ["litematica-block-filter.mixins.json"],
+  "depends": {
+    "minecraft": ">=1.21 <=1.21.1",
+    "litematica": ">=0.19.0",
+    "malilib": ">=0.21.10-"
+  },
+  "suggests": {
+    "litematica-printer-1_21_1": ">=2.4"
+  }
+}

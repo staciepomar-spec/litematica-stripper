@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: jitpack
+Description: Auto-generated artifact that depends on modules: com.repl
+ aymod.preprocess-root.gradle.plugin, com.replaymod.preprocess.gradle.
+ plugin, preprocessor
+
