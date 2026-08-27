@@ -11,16 +11,14 @@
 - **多区域处理**：自动处理投影中的所有区域
 
 ## 安装
-
-1. 安装 [Fabric Loader](https://fabricmc.net/use/) (>= 0.16.0)
-2. 将 `build/libs/[投影剥离] litematica-stripper-1.0.0+mc1.21.1.jar` 放入 `.minecraft/mods/` 目录
-3. 同时安装 [Fabric API](https://modrinth.com/mod/fabric-api)
+将两个模组文件放入MODS文件夹下就行。
 
 ## 使用方法
 
 ### 打开界面
 
 进入游戏后按 **`O`** 键打开投影剥离界面。
+按M键投影界面-配置菜单-投影剥离
 
 ### 操作步骤
 
